@@ -1,0 +1,17 @@
+{
+  "name": "@umn-vr/st-paul",
+  "version": "0.1.0",
+  "private": true,
+  "description": "The University of Minnesota Saint Paul campus tour as a FOSS Earth scene: 12 panoramas of the Saint Paul campus.",
+  "license": "AGPL-3.0-only",
+  "exports": {
+    "./scene.json": "./scene.json",
+    "./campus.json": "./campus.json"
+  },
+  "files": [
+    "scene.json",
+    "campus.json",
+    "README.md",
+    "LICENSE"
+  ]
+}

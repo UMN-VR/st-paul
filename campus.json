@@ -1,0 +1,19 @@
+{
+  "id": "umn-st-paul",
+  "title": "University of Minnesota Saint Paul: campus tour",
+  "initialPanorama": "saint-paul-campus",
+  "panoramas": [
+    "saint-paul-campus",
+    "horticulture-display-garden",
+    "life-and-environmental-sciences",
+    "plant-diagnostics-lab",
+    "mcneal-hall-design-studio",
+    "letterpress-lab",
+    "apparel-design-classroom",
+    "cfans",
+    "community-connections",
+    "bell-museum-planetarium",
+    "mcneal-hall",
+    "st-paul-mall"
+  ]
+}
