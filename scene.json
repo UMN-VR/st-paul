@@ -2,7 +2,7 @@
   "format": "foss-earth-scene",
   "version": 1,
   "id": "umn-st-paul",
-  "revision": "1dc73ee9b83c",
+  "revision": "f8bf13028c4c",
   "title": "University of Minnesota Saint Paul: campus tour",
   "requiredExtensions": [],
   "extensions": {
@@ -12,7 +12,7 @@
       "placements": "tools/twin-cities/placements.json",
       "positions": "Capture positions are approximate. They come from YouVisit's one point per stop, or from the centre of the building a panorama shows; each panorama says which. Building centres are from OpenStreetMap, © OpenStreetMap contributors, ODbL 1.0.",
       "north": "0 of 60 panoramas have north set; the others face an arbitrary direction.",
-      "campus": "The panoramas of umn-twin-cities revision d1ca5c3b123c listed in this campus's campus.json, written by the tour's tools/campus-scenes.mjs."
+      "campus": "The panoramas of umn-twin-cities revision 16de80edd9d7 listed in this campus's campus.json, written by the tour's tools/campus-scenes.mjs."
     },
     "foss-earth.preview-sheets": {
       "sheets": [
